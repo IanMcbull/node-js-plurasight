@@ -1,0 +1,2 @@
+--Nodejs is a javascript runtime written on top of the  googles' v8 javascript engine.
+--Nodejs is a server side language that is run on many of todays servers.
